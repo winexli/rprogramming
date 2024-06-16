@@ -15,7 +15,7 @@ This is also a homework for my class [ DAT 301: Exploring Data in R and Python ]
 ## R002
 In my second R project, I used an open-source dataset about heart disease from Kaggle which you can find here:
 
-[ https://www.kaggle.com/datasets/ rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data ]
+[ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data ]
 
 Given the background of increasing risk of heart disease, my focus is on the prediction and prevention of this condition. 
 I will employ exploratory data analysis, logistic regression, and feature importance techniques to identify key risk factors and address this critical issue.
